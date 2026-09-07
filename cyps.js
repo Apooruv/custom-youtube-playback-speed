@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         YouTube Custom Speed Controller (Up to 4x)
+// @name         YouTube Custom Speed Controller
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @description  Adds keyboard shortcuts and an on-screen indicator to adjust YouTube video speed from 0.25x up to 4.0x.
-// @author       Gemini
+// @author       Apooruv Dubey
 // @match        https://www.youtube.com/*
 // @grant        none
 // @run-at       document-idle
